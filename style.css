@@ -1,0 +1,42 @@
+.pagebreak {
+    border: 1px solid #4c505c;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.PSBox {
+    display:inline-block;
+    text-align: left;
+    Width: 50%;
+}
+
+.PSBox1 {
+    display:inline-block;
+    text-align: left;
+}
+
+body {
+    text-align:center;
+    align-content: center;
+    border: 7px dotted rgba(24, 24, 27, 0.74);
+    margin: 20%;
+}
+
+.Exp1 {
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+}
+
+h2, h3 {
+    text-transform: uppercase;
+    color: rgba(9, 19, 75, 0.774);
+}
+
+h3 {
+    line-height: 1%;
+}
+
+h1 {
+    color:rgb(47, 98, 129)
+}
